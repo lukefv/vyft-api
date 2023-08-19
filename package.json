@@ -4,7 +4,7 @@
   "description": "A member counter for Roblox groups.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
     "build": "node index.js"
   },
   "engines": {
