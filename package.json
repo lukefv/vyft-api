@@ -1,1 +1,23 @@
-
+{
+  "name": "member-counter",
+  "version": "1.0.0",
+  "description": "A member counter for Roblox groups.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.0.0"
+  },
+  "keywords": [],
+  "author": "Sectly_playz#1404",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "express": "4.17.1",
+    "got": "^11.8.2",
+    "node-fetch": "^2.6.1",
+    "unb-api": "^1.2.3"
+  }
+}
