@@ -141,6 +141,3 @@ let refreshCount = async () => {
 
 });
 
-server.listen(5000); //6 - listen for any incoming requests
-
-console.log('Node.js web server at port 5000 is running..')
